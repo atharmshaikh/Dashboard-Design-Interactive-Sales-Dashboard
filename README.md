@@ -1,4 +1,4 @@
-Here's a professional `README.md` for your GitHub submission, tailored to the internship task requirements:
+
 
 
 # Sales Performance Dashboard - Power BI
